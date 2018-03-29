@@ -23,13 +23,13 @@ var accessElementInArray = function(array, index) {
 }
 
 var destructivelyRemoveElementFromBeginningOfArray = function(array) {
-  
+
 }
 
 var removeElementFromEndOfArray = function(array) {
-  
+
 }
 
 var destructivelyRemoveElementFromEndOfArray = function(array) {
-  
+
 }
